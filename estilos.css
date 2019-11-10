@@ -4,8 +4,13 @@ html {
 h1.titulo {
     color: maroon;
     text-align: center;
-    
+}
 
-img.carta {
-        float: left;
+a.carta{
+    float: left;
+}
+
+p.cafe {
+    text-align: center;
+    margin-top: 500px;
 }
