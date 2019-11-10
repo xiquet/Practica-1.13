@@ -12,5 +12,8 @@ a.carta{
 
 p.cafe {
     text-align: center;
-    margin-top: 500px;
+    
+}
+a.contactos {
+    float: right;
 }
